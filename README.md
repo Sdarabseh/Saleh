@@ -8,7 +8,8 @@
 4. THen UFC
 
 ## H2 Sports
-[I'm an inline-style link](Screen Shot 2022-02-13 at 9.47.59 AM)
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"
 I want to be a football player when I grow up 
 I love all sports in genral 
 
