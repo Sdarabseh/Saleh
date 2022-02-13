@@ -4,8 +4,6 @@
  I like to play a lot of video games
  1. My favorite is fifa
 2. Then Nba 2k 
-⋅⋅* Unordered sub-list. 
-1.
 ⋅⋅1. Then rocket leauge 
 4. THen UFC
 
